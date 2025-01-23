@@ -7,4 +7,4 @@ description.txt: Provides detailed documentation of the tests, including their p
 
 To run the application, execute app.py.
 To run the tests, execute tests.py.
-For detailed information on the tests, please refer to python_tests_description_and_summary.txt.
+For detailed information on the tests, please refer to "python tests description and summary.txt".
